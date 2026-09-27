@@ -1,4 +1,4 @@
-## MYVIZHI Y (212224050022)
+## SHASWANTH MATHAV S (212224050046)
 
 # 1. Conditional Statements in Python: Even or Odd Checker
 
